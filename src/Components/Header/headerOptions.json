@@ -1,0 +1,18 @@
+[
+    {
+        "optionText": "Home",
+        "option": "home"
+    },
+    {
+        "optionText": "Who are we?",
+        "option": "who-we-are"
+    },
+    {
+        "optionText": "Work with us!",
+        "option": "work-with-us"
+    },
+    {
+        "optionText": "Be happy!!!!",
+        "option": "be-happy"
+    }
+]
